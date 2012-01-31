@@ -1,0 +1,19 @@
+<lift:surround with="default" at="content"> 
+ <lift:Util.in>
+   <lift:OperationForm.add form="post">
+           <elm:submit>
+           <button>submit</button>
+           </elm:submit>
+   </lift:OperationForm.add>
+     <table>
+       <tr><th>Operation</th><th>op1</th><th>op2</th></tr>
+       <lift:OperationForm.listForm form="post">
+       <tr>
+         <td><f:operation /></td>
+         <td><f:modify /></td>
+         <td><f:create /></td>
+       </tr>
+    </lift:OperationForm.listForm>
+    </table>
+</lift:Util.in> 
+</lift:surround>

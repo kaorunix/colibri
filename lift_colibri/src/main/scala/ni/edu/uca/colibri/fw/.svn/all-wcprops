@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/Prueba/!svn/ver/329/trunk/lift_colibri/src/main/scala/ni/edu/uca/colibri/fw
+END
+User.scala
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/Prueba/!svn/ver/33/trunk/lift_colibri/src/main/scala/ni/edu/uca/colibri/fw/User.scala
+END
+AbstractDataType.scala
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/Prueba/!svn/ver/329/trunk/lift_colibri/src/main/scala/ni/edu/uca/colibri/fw/AbstractDataType.scala
+END
+Control.scala
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/Prueba/!svn/ver/186/trunk/lift_colibri/src/main/scala/ni/edu/uca/colibri/fw/Control.scala
+END
+Session.scala
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/Prueba/!svn/ver/314/trunk/lift_colibri/src/main/scala/ni/edu/uca/colibri/fw/Session.scala
+END
+ListTableType.scala
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/Prueba/!svn/ver/327/trunk/lift_colibri/src/main/scala/ni/edu/uca/colibri/fw/ListTableType.scala
+END
+TinyType.scala
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/Prueba/!svn/ver/317/trunk/lift_colibri/src/main/scala/ni/edu/uca/colibri/fw/TinyType.scala
+END
+DBVender.scala
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/Prueba/!svn/ver/59/trunk/lift_colibri/src/main/scala/ni/edu/uca/colibri/fw/DBVender.scala
+END
+TableType.scala
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/Prueba/!svn/ver/327/trunk/lift_colibri/src/main/scala/ni/edu/uca/colibri/fw/TableType.scala
+END
+DataControl.scala
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/Prueba/!svn/ver/325/trunk/lift_colibri/src/main/scala/ni/edu/uca/colibri/fw/DataControl.scala
+END
+Generate.scala
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/Prueba/!svn/ver/328/trunk/lift_colibri/src/main/scala/ni/edu/uca/colibri/fw/Generate.scala
+END
+DataType.scala
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/Prueba/!svn/ver/326/trunk/lift_colibri/src/main/scala/ni/edu/uca/colibri/fw/DataType.scala
+END

@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/Prueba/!svn/ver/330/trunk/lift_colibri/src/main/scala/ni/edu/uca/colibri/dao
+END
+DAO_LARGE_TYPE_001.scala
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/Prueba/!svn/ver/321/trunk/lift_colibri/src/main/scala/ni/edu/uca/colibri/dao/DAO_LARGE_TYPE_001.scala
+END
+DAO_INT_TYPE_001.scala
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/Prueba/!svn/ver/321/trunk/lift_colibri/src/main/scala/ni/edu/uca/colibri/dao/DAO_INT_TYPE_001.scala
+END
+DAO_SYSTEM_VALIDATION_001.scala
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/Prueba/!svn/ver/150/trunk/lift_colibri/src/main/scala/ni/edu/uca/colibri/dao/DAO_SYSTEM_VALIDATION_001.scala
+END
+DAO_PANEL_001.scala
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/Prueba/!svn/ver/291/trunk/lift_colibri/src/main/scala/ni/edu/uca/colibri/dao/DAO_PANEL_001.scala
+END
+DAO_OPERATION_001.scala
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/Prueba/!svn/ver/308/trunk/lift_colibri/src/main/scala/ni/edu/uca/colibri/dao/DAO_OPERATION_001.scala
+END
+DAO_NUMERIC_TYPE_001.scala
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/Prueba/!svn/ver/321/trunk/lift_colibri/src/main/scala/ni/edu/uca/colibri/dao/DAO_NUMERIC_TYPE_001.scala
+END
+DAO_ORGANIZATION_001.scala
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/Prueba/!svn/ver/89/trunk/lift_colibri/src/main/scala/ni/edu/uca/colibri/dao/DAO_ORGANIZATION_001.scala
+END
+DAO_TABLE_CONTENTS_001.scala
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/Prueba/!svn/ver/289/trunk/lift_colibri/src/main/scala/ni/edu/uca/colibri/dao/DAO_TABLE_CONTENTS_001.scala
+END
+DAO_TYNY_TYPE_001.scala
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/Prueba/!svn/ver/53/trunk/lift_colibri/src/main/scala/ni/edu/uca/colibri/dao/DAO_TYNY_TYPE_001.scala
+END
+DAO_LOGIN_USER_001.scala
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/Prueba/!svn/ver/35/trunk/lift_colibri/src/main/scala/ni/edu/uca/colibri/dao/DAO_LOGIN_USER_001.scala
+END
+DAO_LOGIN_001.scala
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/Prueba/!svn/ver/35/trunk/lift_colibri/src/main/scala/ni/edu/uca/colibri/dao/DAO_LOGIN_001.scala
+END
+DAO_PAGE_ELEMENTS_001.scala
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/Prueba/!svn/ver/280/trunk/lift_colibri/src/main/scala/ni/edu/uca/colibri/dao/DAO_PAGE_ELEMENTS_001.scala
+END
+DAO_DATA_CONTROL_001.scala
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/Prueba/!svn/ver/320/trunk/lift_colibri/src/main/scala/ni/edu/uca/colibri/dao/DAO_DATA_CONTROL_001.scala
+END
+DAO_SMALL_TYPE_001.scala
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/Prueba/!svn/ver/321/trunk/lift_colibri/src/main/scala/ni/edu/uca/colibri/dao/DAO_SMALL_TYPE_001.scala
+END
+DAO_DATA_TYPE_001.scala
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/Prueba/!svn/ver/104/trunk/lift_colibri/src/main/scala/ni/edu/uca/colibri/dao/DAO_DATA_TYPE_001.scala
+END
+DAO_PAGE_001.scala
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/Prueba/!svn/ver/324/trunk/lift_colibri/src/main/scala/ni/edu/uca/colibri/dao/DAO_PAGE_001.scala
+END
+DAO_LAYOUT_001.scala
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/Prueba/!svn/ver/66/trunk/lift_colibri/src/main/scala/ni/edu/uca/colibri/dao/DAO_LAYOUT_001.scala
+END
+DAO_DATE_TYPE_001.scala
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/Prueba/!svn/ver/321/trunk/lift_colibri/src/main/scala/ni/edu/uca/colibri/dao/DAO_DATE_TYPE_001.scala
+END
+DAO_LABEL_001.scala
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/Prueba/!svn/ver/330/trunk/lift_colibri/src/main/scala/ni/edu/uca/colibri/dao/DAO_LABEL_001.scala
+END
+DAO_CONTROL_001.scala
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/Prueba/!svn/ver/279/trunk/lift_colibri/src/main/scala/ni/edu/uca/colibri/dao/DAO_CONTROL_001.scala
+END
+DAO_LANGUAGE_001.scala
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/Prueba/!svn/ver/43/trunk/lift_colibri/src/main/scala/ni/edu/uca/colibri/dao/DAO_LANGUAGE_001.scala
+END
+DAO_MESSAGE_001.scala
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/Prueba/!svn/ver/140/trunk/lift_colibri/src/main/scala/ni/edu/uca/colibri/dao/DAO_MESSAGE_001.scala
+END
+DAO_TINY_TYPE_001.scala
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/Prueba/!svn/ver/322/trunk/lift_colibri/src/main/scala/ni/edu/uca/colibri/dao/DAO_TINY_TYPE_001.scala
+END
+DAO_MIDIUM_TYPE_001.scala
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/Prueba/!svn/ver/321/trunk/lift_colibri/src/main/scala/ni/edu/uca/colibri/dao/DAO_MIDIUM_TYPE_001.scala
+END
+DAO_OPERATION_DATA_001.scala
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/Prueba/!svn/ver/323/trunk/lift_colibri/src/main/scala/ni/edu/uca/colibri/dao/DAO_OPERATION_DATA_001.scala
+END

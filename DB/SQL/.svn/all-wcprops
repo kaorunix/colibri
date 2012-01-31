@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/repos/Prueba/!svn/ver/14/trunk/DB/SQL
+END
+create_operation.sql
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/Prueba/!svn/ver/12/trunk/DB/SQL/create_operation.sql
+END
+create_organization.sql
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/Prueba/!svn/ver/14/trunk/DB/SQL/create_organization.sql
+END
+create_login_user.sql
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/Prueba/!svn/ver/14/trunk/DB/SQL/create_login_user.sql
+END
+create_login.sql
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/Prueba/!svn/ver/14/trunk/DB/SQL/create_login.sql
+END

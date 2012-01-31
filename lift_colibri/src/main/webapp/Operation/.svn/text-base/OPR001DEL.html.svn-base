@@ -1,0 +1,6 @@
+<div class="lift:surround?with=default;at=content">
+  <lift:BL_OPR001.title />
+  <HR></HR>
+  <lift:BL_OPR001.display>4</lift:BL_OPR001.display>
+</div>
+

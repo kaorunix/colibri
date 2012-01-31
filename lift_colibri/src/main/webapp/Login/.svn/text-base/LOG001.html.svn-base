@@ -1,0 +1,6 @@
+<div class="lift:surround?with=default;at=content">
+  <lift:BL_LOG001.title />
+  <HR></HR>
+  <lift:BL_LOG001.display />
+</div>
+    

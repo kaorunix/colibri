@@ -1,0 +1,8 @@
+package ni.edu.uca.colibri.fw
+
+import _root_.net.liftweb.http._
+
+class SessionObject { 
+  object modifyOp extends RequestVar[String](S.param("operation_id"))
+//  object modifyOp extends RequestVar[Long](S.param("operation_id").map(_.toLong))
+}
